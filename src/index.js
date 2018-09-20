@@ -7,8 +7,19 @@ import {
 } from 'react-native';
 
 import Slider from './ogSlider';
+import styles from './styles';
 
 export default class App extends Component {
+  static propTypes = {
+    value: PropTypes.number,
+    minimumValue: PropTypes.number,
+    maximumValue: PropTypes.number,
+    step: PropTypes.number,
+    minimumTrackTintColor: PropTypes.string,
+    maximumTrackTintColor: PropTypes.string,
+    thumbTintColor: PropTypes.string,
+    onValueChange: PropTypes.func,
+  }
   static defaultProps = {
     value: 0,
     minimumValue: 0,
@@ -51,7 +62,7 @@ export default class App extends Component {
           step={step}
           value={value}
           thumbMode={this.getThumbMode()}
-          onValueChange={value => onValueChange(value)}
+          onValueChange={onValueChange}
           minimumValue={minimumValue}
           maximumValue={maximumValue}
           thumbTintColor={thumbTintColor}
@@ -63,12 +74,3 @@ export default class App extends Component {
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    backgroundColor: 'transparent',
-  },
-  trackStyle: {
-    height: 4,
-  }
-});
