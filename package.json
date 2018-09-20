@@ -1,0 +1,27 @@
+{
+  "name": "@opengeekslab/react-native-fluid-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openGeeksLab/react-native-fluid-slider"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": "openGeeksLab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openGeeksLab/react-native-fluid-slider/issues"
+  },
+ "homepage": "https://github.com/openGeeksLab/react-native-fluid-slider/#README.md",
+ "dependencies": {
+    "prop-types": "^15.6.2"
+  }
+}
