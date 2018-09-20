@@ -12,7 +12,7 @@
   <a href="http://facebook.com/openGeeksLab/"><img src="https://img.shields.io/badge/facebook-us-blue.svg" alt="Facebook" data-canonical-src="https://img.shields.io/badge/facebook-us-blue.svg" style="max-width:100%;"></a>
   <a href="https://medium.com/@openGeeksLab"><img src="https://img.shields.io/badge/Medium-story-brightgreen.svg" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-story-brightgreen.svg" style="max-width:100%;"></a>
   </p>
-  <img src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.png" alt="Medium" data-canonical-src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.png" width="50%" height="50%"style="max-width:100%;">
+  <img src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.gif" alt="Medium" data-canonical-src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.gif" width="50%" height="50%"style="max-width:100%;">
 
 # About
 Our company provides custom UI design and development solutions for mobile applications and websites.
