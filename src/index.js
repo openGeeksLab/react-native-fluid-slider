@@ -12,7 +12,7 @@ export default class App extends Component {
   static defaultProps = {
     value: 0,
     minimumValue: 0,
-    maximumValue: 1,
+    maximumValue: 100,
     step: 0,
     minimumTrackTintColor: '#FFFFFF',
     maximumTrackTintColor: '#FFFFFF',
