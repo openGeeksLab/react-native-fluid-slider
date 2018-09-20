@@ -79,11 +79,11 @@ const styles = StyleSheet.create({
 });
 ```
 ## Properties
-  `value`  
-  `step`  
-  `minimumValue`  
-  `maximumValue`  
-  `onValueChange`  
-  `thumbTintColor`  
-  `minimumTrackTintColor`  
-  `maximumTrackTintColor`  
+  `value` -  is the value of the slider.   
+  `step` -  is the slider step.   
+  `minimumValue` - is the minimum value.  
+  `maximumValue` - is the maximum value.  
+  `onValueChange` - it is called when the value of the slider is changed and  getting the new slider value parameter.  
+  `thumbTintColor` - is the slider color.  
+  `minimumTrackTintColor` - is the color of the slider track on the left of the slider.  
+  `maximumTrackTintColor` - is the color of the slider track on the right of the slider.  
