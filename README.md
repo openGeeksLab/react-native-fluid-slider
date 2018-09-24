@@ -1,7 +1,7 @@
 
 <p align="left">
   <a href="https://www.opengeekslab.com" target="_blank">
-  <img src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/header_github_fluid.png" width="100%" title="openGeeksLab"/>
+  <img src="https://raw.githubusercontent.com/openGeeksLab/react-native-fluid-slider/develop/header_github_fluid.png?token=ADh7RWnDlipsJqGwoIkzlzORbEHDcO1Yks5bsdPJwA%3D%3D" width="100%" title="openGeeksLab"/>
   </a>
 </p>
 
