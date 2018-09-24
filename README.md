@@ -12,7 +12,7 @@
   <a href="http://facebook.com/openGeeksLab/"><img src="https://img.shields.io/badge/facebook-us-blue.svg" alt="Facebook" data-canonical-src="https://img.shields.io/badge/facebook-us-blue.svg" style="max-width:100%;"></a>
   <a href="https://medium.com/@openGeeksLab"><img src="https://img.shields.io/badge/Medium-story-brightgreen.svg" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-story-brightgreen.svg" style="max-width:100%;"></a>
   </p>
-  <img src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.gif" alt="Medium" data-canonical-src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.gif" width="50%" height="50%"style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/openGeeksLab/react-native-fluid-slider/develop/animated_fluid_slider.gif?token=ADh7RT9pp84mq0t00RgFXPYS1rVE7UP-ks5bsdPkwA%3D%3D" alt="Slider" data-canonical-src="https://raw.githubusercontent.com/openGeeksLab/react-native-fluid-slider/develop/animated_fluid_slider.gif?token=ADh7RT9pp84mq0t00RgFXPYS1rVE7UP-ks5bsdPkwA%3D%3D" width="50%" height="50%"style="max-width:100%;">
 
 # About
 Our company provides custom UI design and development solutions for mobile applications and websites.
