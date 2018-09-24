@@ -1,7 +1,7 @@
 
 <p align="left">
   <a href="https://www.opengeekslab.com" target="_blank">
-  <img src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/header_github_fluid.png" width="100%" title="openGeeksLab"/>
+  <img src="https://raw.githubusercontent.com/openGeeksLab/react-native-fluid-slider/develop/header_github_fluid.png?token=ADh7RWnDlipsJqGwoIkzlzORbEHDcO1Yks5bsdPJwA%3D%3D" width="100%" title="openGeeksLab"/>
   </a>
 </p>
 
@@ -12,7 +12,7 @@
   <a href="http://facebook.com/openGeeksLab/"><img src="https://img.shields.io/badge/facebook-us-blue.svg" alt="Facebook" data-canonical-src="https://img.shields.io/badge/facebook-us-blue.svg" style="max-width:100%;"></a>
   <a href="https://medium.com/@openGeeksLab"><img src="https://img.shields.io/badge/Medium-story-brightgreen.svg" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-story-brightgreen.svg" style="max-width:100%;"></a>
   </p>
-  <img src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.gif" alt="Medium" data-canonical-src="https://github.com/openGeeksLab/react-native-fluid-slider/blob/develop/animated_fluid_slider.gif" width="50%" height="50%"style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/openGeeksLab/react-native-fluid-slider/develop/animated_fluid_slider.gif?token=ADh7RT9pp84mq0t00RgFXPYS1rVE7UP-ks5bsdPkwA%3D%3D" alt="Slider" data-canonical-src="https://raw.githubusercontent.com/openGeeksLab/react-native-fluid-slider/develop/animated_fluid_slider.gif?token=ADh7RT9pp84mq0t00RgFXPYS1rVE7UP-ks5bsdPkwA%3D%3D" width="50%" height="50%"style="max-width:100%;">
 
 # About
 Our company provides custom UI design and development solutions for mobile applications and websites.
@@ -93,3 +93,9 @@ const styles = StyleSheet.create({
   `thumbTintColor` - is the slider color.  
   `minimumTrackTintColor` - is the color of the slider track on the left of the slider.  
   `maximumTrackTintColor` - is the color of the slider track on the right of the slider.  
+ # Contact us if interested.
+<a href="https://opengeekslab.com/contact-us/">
+<img src="https://raw.githubusercontent.com/openGeeksLab/docs/master/contact_our_team.png" width="25%" height="25%" style="max-width:100%;"></a>
+
+# Licence
+Expanding is released under the MIT license.
