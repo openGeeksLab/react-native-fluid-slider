@@ -93,3 +93,9 @@ const styles = StyleSheet.create({
   `thumbTintColor` - is the slider color.  
   `minimumTrackTintColor` - is the color of the slider track on the left of the slider.  
   `maximumTrackTintColor` - is the color of the slider track on the right of the slider.  
+ # Contact us if interested.
+<a href="https://opengeekslab.com/contact-us/">
+<img src="https://raw.githubusercontent.com/openGeeksLab/docs/master/contact_our_team.png" width="25%" height="25%" style="max-width:100%;"></a>
+
+# Licence
+Expanding is released under the MIT license.
