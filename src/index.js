@@ -15,6 +15,7 @@ export default class App extends Component {
     maximumTrackTintColor: PropTypes.string,
     thumbTintColor: PropTypes.string,
     onValueChange: PropTypes.func,
+    onSlidingComplete: PropTypes.func,
   }
   static defaultProps = {
     value: 0,
@@ -25,6 +26,7 @@ export default class App extends Component {
     maximumTrackTintColor: '#FFFFFF',
     thumbTintColor: '#FFFFFF',
     onValueChange: () => {},
+    onSlidingComplete: () => {},
   };
 
   getThumbMode = () => {
@@ -49,6 +51,7 @@ export default class App extends Component {
       maximumValue,
       onValueChange,
       thumbTintColor,
+      onSlidingComplete,
       minimumTrackTintColor,
       maximumTrackTintColor,
     } = this.props;
@@ -57,14 +60,15 @@ export default class App extends Component {
         <Slider
           step={step}
           value={value}
-          thumbMode={this.getThumbMode()}
-          onValueChange={onValueChange}
           minimumValue={minimumValue}
           maximumValue={maximumValue}
+          onValueChange={onValueChange}
+          trackStyle={styles.trackStyle}
+          thumbMode={this.getThumbMode()}
           thumbTintColor={thumbTintColor}
+          onSlidingComplete={onSlidingComplete}
           minimumTrackTintColor={minimumTrackTintColor}
           maximumTrackTintColor={maximumTrackTintColor}
-          trackStyle={styles.trackStyle}
         />
       </View>
     );
