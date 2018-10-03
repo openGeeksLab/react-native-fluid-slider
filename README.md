@@ -38,7 +38,7 @@ This project is developed and maintained by <a href="https://www.openGeeksLab.co
 
 ## Installation
 Just run:
-- npm i @opengeekslab/react-native-fluid-slider
+- npm i react-native-fluid-slider
 
 ## Basic usage
 ```javascript
