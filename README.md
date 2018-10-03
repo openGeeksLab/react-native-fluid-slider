@@ -49,7 +49,7 @@ import {
   View,
 } from 'react-native';
 
-import Slider from '@opengeekslab/react-native-fluid-slider';
+import Slider from 'react-native-fluid-slider';
 
 export default class App extends Component {
   state = { value: 40 }
