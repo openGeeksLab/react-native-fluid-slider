@@ -2,7 +2,7 @@
 <p align="left">
   <a target="_blank" href="https://www.opengeekslab.com">
     <img
-      src="://raw.githubusercontent.com/opehttpsnGeeksLab/react-native-fluid-slider/develop/header_github_fluid.png?token=ADh7RWnDlipsJqGwoIkzlzORbEHDcO1Yks5bsdPJwA%3D%3D"
+      src="https://raw.githubusercontent.com/openGeeksLab/react-native-fluid-slider/master/header_github_fluid.png"
       width="100%"
       title="openGeeksLab"
     />
