@@ -104,6 +104,8 @@ const styles = StyleSheet.create({
 <a href="https://opengeekslab.com/contact-us/">
 <img src="https://raw.githubusercontent.com/openGeeksLab/docs/master/contact_our_team.png" width="25%" height="25%" style="max-width:100%;"></a>
 
-# Inspired by <a href="https://github.com/Ramotion/fluid-slider-android">@Ramotion</a>
+ 
 # Licence
 Expanding is released under the MIT license.
+
+Inspired by <a href="https://github.com/Ramotion/fluid-slider-android">@Ramotion</a>
