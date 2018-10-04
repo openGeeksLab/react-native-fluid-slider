@@ -108,4 +108,4 @@ const styles = StyleSheet.create({
 # Licence
 Expanding is released under the MIT license.
 
-Inspired by <a href="https://github.com/Ramotion/fluid-slider-android">@Ramotion</a>
+Inspired by <a href="https://dribbble.com/shots/3868232-Fluid-Slider">@Virgil Pana</a>
